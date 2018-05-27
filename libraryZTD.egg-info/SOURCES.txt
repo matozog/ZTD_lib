@@ -1,5 +1,14 @@
 setup.py
+calculations/__init__.py
+calculations/calculate.py
+filemanager_/__init__.py
+filemanager_/loadFile.py
+filemanager_/saveToFile.py
 libraryZTD.egg-info/PKG-INFO
 libraryZTD.egg-info/SOURCES.txt
 libraryZTD.egg-info/dependency_links.txt
 libraryZTD.egg-info/top_level.txt
+structurefile/CSVFile.py
+structurefile/__init__.py
+structurefile/record.py
+structurefile/station.py
