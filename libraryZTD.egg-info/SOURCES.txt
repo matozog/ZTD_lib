@@ -1,0 +1,5 @@
+setup.py
+libraryZTD.egg-info/PKG-INFO
+libraryZTD.egg-info/SOURCES.txt
+libraryZTD.egg-info/dependency_links.txt
+libraryZTD.egg-info/top_level.txt
