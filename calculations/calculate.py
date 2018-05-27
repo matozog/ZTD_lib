@@ -1,6 +1,6 @@
-from FileManager.loadFile import *
-from StructureFile.station import Station
-from StructureFile.CSVFile import CSVFile
+from filemanager_.loadFile import *
+from structurefile.station import Station
+from structurefile.CSVFile import CSVFile
 
 def calculateZTD():
     nameStation = input('Enter ID station: ')

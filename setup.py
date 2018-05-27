@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='libraryZTD',
     version='0.1',
-    packages=find_packages(exclude=['calculations*', 'FileManager*', 'StructureFile*']),
+    packages=find_packages(exclude=['calculations*', 'filemanager_*', 'structurefile*']),
     description='Library to calculate ZTD',
     long_description=open('README.md').read(),
     url='https://github.com/matozog/libraryZTD.git',

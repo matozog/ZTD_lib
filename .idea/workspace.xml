@@ -16,8 +16,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="saveToFile.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../LibraryZTD/FileManager/saveToFile.py">
+      <file leaf-file-name="saveToFile.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../LibraryZTD/filemanager_/saveToFile.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
@@ -25,17 +25,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="setup.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="setup.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../LibraryZTD/setup.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+              <caret line="8" column="52" lean-forward="true" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="loadFile.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../LibraryZTD/FileManager/loadFile.py">
+        <entry file="file://$PROJECT_DIR$/../LibraryZTD/filemanager_/loadFile.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
               <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
@@ -47,7 +47,7 @@
         </entry>
       </file>
       <file leaf-file-name="record.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../LibraryZTD/StructureFile/record.py">
+        <entry file="file://$PROJECT_DIR$/../LibraryZTD/structurefile/record.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
@@ -59,12 +59,16 @@
         </entry>
       </file>
       <file leaf-file-name="station.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../LibraryZTD/StructureFile/station.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/../LibraryZTD/structurefile/station.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="CSVFile.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../LibraryZTD/StructureFile/CSVFile.py">
+        <entry file="file://$PROJECT_DIR$/../LibraryZTD/structurefile/CSVFile.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="1" selection-start-line="1" selection-end-line="1" />
@@ -125,7 +129,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="y" value="2" />
     <option name="width" value="972" />
     <option name="height" value="1030" />
@@ -151,12 +155,12 @@
             <path>
               <item name="LibraryZTD" type="b2602c69:ProjectViewProjectNode" />
               <item name="LibraryZTD" type="462c0819:PsiDirectoryNode" />
-              <item name="FileManager" type="462c0819:PsiDirectoryNode" />
+              <item name="filemanager_" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LibraryZTD" type="b2602c69:ProjectViewProjectNode" />
               <item name="LibraryZTD" type="462c0819:PsiDirectoryNode" />
-              <item name="StructureFile" type="462c0819:PsiDirectoryNode" />
+              <item name="structurefile" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -277,10 +281,10 @@
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13278688" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32984293" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.24397905" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.75625" visible="true" weight="0.2984293" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.75625" weight="0.2984293" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39029768" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -488,7 +492,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../LibraryZTD/StructureFile/record.py">
+    <entry file="file://$PROJECT_DIR$/../LibraryZTD/calculations/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LibraryZTD/filemanager_/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LibraryZTD/structurefile/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LibraryZTD/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="52" lean-forward="true" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LibraryZTD/filemanager_/loadFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LibraryZTD/structurefile/record.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
@@ -498,10 +546,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../LibraryZTD/StructureFile/station.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/../LibraryZTD/structurefile/station.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../LibraryZTD/StructureFile/CSVFile.py">
+    <entry file="file://$PROJECT_DIR$/../LibraryZTD/structurefile/CSVFile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
@@ -518,54 +570,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../LibraryZTD/calculations/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../LibraryZTD/FileManager/loadFile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../LibraryZTD/FileManager/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../LibraryZTD/StructureFile/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../LibraryZTD/FileManager/saveToFile.py">
+    <entry file="file://$PROJECT_DIR$/../LibraryZTD/filemanager_/saveToFile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../LibraryZTD/setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
         </state>
       </provider>
     </entry>

@@ -1,6 +1,6 @@
 import csv
 from datetime import *
-from StructureFile.record import Record
+from structurefile.record import Record
 from os import listdir
 
 def find_csv_files(folderName):
