@@ -1,12 +1,10 @@
-from setuptools import setup, find_packages
+from distutils.core import setup
 
 setup(
-    name='libraryZTD',
-    version='0.1',
-    packages=find_packages(exclude=['tests*']),
-    description='Library to calculate ZTD',
-    long_description=open('README.md').read(),
-    url='https://github.com/matozog/libraryZTD',
+    name='LibraryZTD',
+    version='1.0',
     author='Mateusz Ozog',
-    author_email='226125@student.pwr.edu.pl'
+    author_email='226125@student.pwr.edu.pl',
+    url='https://github.com/matozog/libraryZTD.git',
+    packages=['calculations', 'structurefile' , 'filemanager_'],
 )

@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9640fb52-650c-4ab4-acb3-23138fe7f17c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculations/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filemanager_/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/filemanager_/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/structurefile/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/structurefile/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="setup.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="setup.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/setup.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            <state relative-caret-position="120">
+              <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -94,7 +90,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="calculate.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="calculate.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/calculations/calculate.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
@@ -134,11 +130,11 @@
         <option value="$PROJECT_DIR$/FileManager/__init__.py" />
         <option value="$PROJECT_DIR$/StructureFile/__init__.py" />
         <option value="$PROJECT_DIR$/tests/test.py" />
-        <option value="$PROJECT_DIR$/setup.py" />
         <option value="$PROJECT_DIR$/calculations/__init__.py" />
         <option value="$PROJECT_DIR$/filemanager_/__init__.py" />
         <option value="$PROJECT_DIR$/structurefile/__init__.py" />
         <option value="$PROJECT_DIR$/filemanager_/saveToFile.py" />
+        <option value="$PROJECT_DIR$/setup.py" />
       </list>
     </option>
   </component>
@@ -152,9 +148,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="67" />
-    <option name="y" value="25" />
-    <option name="width" value="952" />
+    <option name="x" value="914" />
+    <option name="y" value="89" />
+    <option name="width" value="942" />
     <option name="height" value="1030" />
   </component>
   <component name="ProjectView">
@@ -513,13 +509,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/calculations/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -566,6 +555,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
         </state>
       </provider>
     </entry>
