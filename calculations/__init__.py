@@ -1,1 +1,1 @@
-from . import calculate
+from calculations import calculate

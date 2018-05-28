@@ -1,3 +1,3 @@
-from . import CSVFile
-from . import record
-from . import station
+from structurefile import CSVFile
+from structurefile import record
+from structurefile import station

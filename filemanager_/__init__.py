@@ -1,2 +1,2 @@
-from . import loadFile
-from . import saveToFile
+from filemanager_ import loadFile
+from filemanager_ import saveToFile
