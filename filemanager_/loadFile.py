@@ -8,9 +8,9 @@ def find_csv_files(folderName):
     filenames = listdir(folderName)
     return [filename for filename in filenames if filename.endswith(suffix)]
 
-def loadDataFromCSV(reader, station):
+def loadDataFromCSV(reader, station, stationID):
     for row in reader:
-        if row[2] == station.getID().upper():
+        if row[2] == stationID.upper():
             record = Record()
             record.setDate(datetime.strptime(row[0] + ' ' + row[1], "%Y-%m-%d %H:%M"))
             station.getDict()[record.getDate()] = ''
