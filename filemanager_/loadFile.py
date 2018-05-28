@@ -34,6 +34,6 @@ def readCSVFiles(filePath, station):
     try:
         with open(filePath, 'rt') as csvfile:
             reader = csv.reader(csvfile, delimiter=',', quotechar='|')
-            loadDataFromCSV(reader, station)
+            loadDataFromCSV(reader, station, station.getID())
     except FileNotFoundError:
             print("Error with opening file! ")
